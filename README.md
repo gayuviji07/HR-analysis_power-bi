@@ -4,7 +4,7 @@ This dashboard visualizes key HR metrics, providing actionable insights into wor
 ##Project Objective:
 The primary objective of this project is to analyze employee data to:
 ## Dateset used 
-<
+<https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20Data.xlsx>Data set</a>
 
 Identify factors contributing to employee attrition.
 Understand workforce demographics and distribution.
