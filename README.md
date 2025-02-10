@@ -10,8 +10,8 @@ The primary objective of this project is to analyze employee data to:
 
 ## QUESTION (KPIs)
 
-.What is the overall attrition rate, and how does it compare across departments?
-.Which department has the highest number of attritions, and what might be the reason
+-What is the overall attrition rate, and how does it compare across departments?
+-Which department has the highest number of attritions, and what might be the reason
 -Which department has the highest number of active employees?
 -How does the education field distribution correlate with active employees?
 -Which job role contributes the highest to the total monthly income?
