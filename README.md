@@ -37,3 +37,14 @@ https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20analysis%20pro
 ## Dashboard 
 ![HR Analysis Dashboard](https://github.com/user-attachments/assets/6f8f12e3-cef8-4096-8f8c-b03eb1ba0853)
 
+## Project insight 
+
+-Attrition Focus: Sales department has the highest attrition rate, requiring retention strategies.
+-Education Impact: Most employees have Bachelor’s or Master’s degrees, influencing retention and performance.
+-Income Trends: Managers earn the highest, while Sales and HR roles have lower incomes.
+-Demographics: Employees aged 25-34 dominate, indicating a younger, career-focused workforce.
+-Job Satisfaction: Sales Executives report low satisfaction, highlighting a need for improvement initiatives.
+
+## Final conclusion
+The HR Analytics Dashboard reveals key insights into employee attrition, performance, and satisfaction, highlighting critical areas like high attrition in Sales, lower satisfaction in specific roles, and the dominance of younger employees with advanced education. These findings suggest a need for targeted retention strategies, enhanced employee engagement programs, and focused departmental interventions to optimize workforce performance and satisfaction.
+
