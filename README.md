@@ -35,3 +35,5 @@ https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20analysis%20pro
 -Analysis & Insights: Identify trends, address challenges, and support HR decision-making.
 
 ## Dashboard 
+![HR Analysis Dashboard](https://github.com/user-attachments/assets/6f8f12e3-cef8-4096-8f8c-b03eb1ba0853)
+
