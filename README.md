@@ -24,4 +24,5 @@ The primary objective of this project is to analyze employee data to:
 ---Which job role has the highest satisfaction ratings, and which has the lowest?
 ---What percentage of employees rate their job satisfaction as 4 or above?
 
-## Dashboard interaction<"https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20analysis%20project%20power%20bi.pbix">
+## Dashboard interaction
+https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20analysis%20project%20power%20bi.pbix
