@@ -1,10 +1,12 @@
 # HR Analytics Dashboard Overview
 This dashboard visualizes key HR metrics, providing actionable insights into workforce trends, employee performance, and job satisfaction. The project leverages data to support decision-making in HR management.
 
-##Project Objective:
+
+
+##Project Objective
 The primary objective of this project is to analyze employee data to:
 ## Dateset used 
-<https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20Data.xlsx>Data set</a>
+<a https://github.com/gayuviji07/HR-analysis_power-bi/blob/main/HR%20Data.xlsx>Data set</a>
 
 Identify factors contributing to employee attrition.
 Understand workforce demographics and distribution.
